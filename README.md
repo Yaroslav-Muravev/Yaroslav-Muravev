@@ -2,7 +2,7 @@
 
 Research & Dev engineer with 1+ year in an acoustic lab:  
 - Optimized structures via genetic algorithms (MATLAB)  
-- Solved multipole decomposition for crystals with custom material models  
+- Solved multipole decomposition for crystals with custom material equation  
 
 Built and maintained:  
 - Autonomous robot control & monitoring system (C++, Python, ROS2, Gazebo)  
