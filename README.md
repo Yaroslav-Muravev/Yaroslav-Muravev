@@ -5,7 +5,7 @@ Research & Dev engineer with 1+ year in an acoustic lab:
 - Solved multipole decomposition for crystals with custom material equation  
 
 Built and maintained:  
-- Autonomous robot control & monitoring system (C++, Python, ROS2, Gazebo)  
+- YouTube's Explicit Content Detection System (C++, Python)
 - Algorithmic trading platform (C++, Python) yielding ~20% monthly ROI  
 - Various neural nets on Kaggle (PyTorch)  
 
