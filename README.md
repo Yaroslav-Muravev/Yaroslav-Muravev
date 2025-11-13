@@ -12,5 +12,4 @@ Built and maintained:
 **Tech:** Python (Flask, PyQT, Matplotlib, NumPy, SciPy, CUDA, Numba, PyTorch), C++ (CUDA) 
 
 **Contacts:**  
-- Telegram: [@yaroslav_muravev](https://t.me/yaroslav_muravev)  
-- Codeforces: [IaroslavMuravev](https://codeforces.com/profile/IaroslavMuravev)  
+- Telegram: [@yaroslav_muravev](https://t.me/yaroslav_muravev) 
