@@ -9,7 +9,7 @@ Built and maintained:
 - Algorithmic trading platform (C++, Python) yielding ~20% monthly ROI  
 - Various neural nets on Kaggle (PyTorch)  
 
-**Tech:** Python (Flask, PyQT, Matplotlib, NumPy, SciPy, CUDA, Numba, PyTorch), C++ (CUDA) 
+**Tech:** Python (Flask, PyQT, Matplotlib, NumPy, SciPy, CUDA, Numba, PyTorch), C++ (STL, CUDA) 
 
 **Contacts:**  
 - Telegram: [@yaroslav_muravev](https://t.me/yaroslav_muravev) 
