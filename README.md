@@ -2,7 +2,7 @@
 
 Research & Dev engineer with 1+ year in an acoustic lab:  
 - Optimized structures via genetic algorithms (MATLAB)  
-- Solved multipole decomposition for crystals with custom material equation  
+- Created neural network for super-resolution of stress fields in cylindrical resonators
 
 Built and maintained:  
 - YouTube's Explicit Content Detection System (C++, Python)
