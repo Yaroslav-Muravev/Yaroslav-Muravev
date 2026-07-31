@@ -6,7 +6,8 @@ Research & Dev engineer with 1+ year in an acoustic lab:
 
 Built and maintained:  
 - Algorithmic trading platform (C++, Python) yielding ~20% monthly ROI  
-- Various neural nets on Kaggle (PyTorch)  
+- Various neural nets on Kaggle (PyTorch)
+- Automatic semantic segmentation of point clouds
 
 **Tech:** Python (Matplotlib, NumPy, SciPy, CUDA, Numba, PyTorch), C++ (STL, CUDA, parallel prog) 
 
