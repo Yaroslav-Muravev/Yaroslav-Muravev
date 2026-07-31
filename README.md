@@ -5,7 +5,6 @@ Research & Dev engineer with 1+ year in an acoustic lab:
 - Created neural network for super-resolution of stress fields in cylindrical resonators
 
 Built and maintained:  
-- YouTube's Explicit Content Detection System (C++, Python)
 - Algorithmic trading platform (C++, Python) yielding ~20% monthly ROI  
 - Various neural nets on Kaggle (PyTorch)  
 
